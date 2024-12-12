@@ -1,0 +1,75 @@
+Moje jednostki:
+
+
+Sturmgeschütz-Brigade 115:
+I. Bat/Stug-Brigade 115
+II. Bat/Stug-Brigade 115
+III. Bat/Stug-Brigade 115
+
+Panzer-Grenadier-Regiment 104:
+I. Battalion/PzG-Reg 104
+II. Battalion/PzG-Reg 104
+III. Battalion/PzG-Reg 104
+
+Panzer-Grenadier-Regiment 115
+I. Battalion/PzG-Reg 115
+II. Battalion/PzG-Reg 115
+III. Battalion/PzG-Reg 115
+
+Panzer-Artillerie-Regiment 33
+I. Battalion/Panzer-Art-Reg 33
+II. Battalion/Panzer-Art-Reg 33
+
+15. Panzergrenadier-Division assets
+Pionier-Bat 33
+Panzer-Aufk-Bat 115
+Flak-Bat 315
+15. PzG-Div HQ
+15. PzG-Div Logistics
+
+Kampfgruppe “Blut”: KG B
+115th regiment idzie na 45-46, 30, las zachodni, east of NIJNSEL
+I, II BTN + III BTN STUG
+
+Kampfgruppe “Axt”: KG A
+104th reg idzie centrum 49-50, 30, las centralny
+I, III + Aufk-Bat + I STUG
+
+Kampfgruppe “Crux”: KG C
+Rezerwa  50-51, 31-32, las obok kanalu
+II BTN 104
+III BTN 115
+II BTN STUG
+
+
+## ORDERS ##
+
+**15. Panzergrenadier-Division assets:**
+* `15. PzG-Div HQ` relocate to nothern side of SINT-OEDENRODE, close to intersection with road leading to OLLAND.
+* `15. PzG-Div Logistics` relocate to OLLAND
+* `Panzer-Aufk-Bat 115` relocate to central forest, (grid 50, 31)
+* `Pionier-Bat 33` relocate to SINT-OEDENRODE, setup explosive charges onto the bridge there, over DOMMEL river.
+* `Flak-Bat 315` relocate to position around 1-1,5km east from SINT-OEDENRODE (grid 44, 32), use small forest for cover, provide AA defense
+
+**Panzer-Artillerie-Regiment 33:**
+* `I. Battalion/Panzer-Art-Reg 33` relocate to position around 1 km north of SINT-OEDENRODE, close to road towards VEGHEL (West side of the road)
+* `II. Battalion/Panzer-Art-Reg 33` relocate to position around 1 km north of SINT-OEDENRODE, close to road towards SCHIJNDEL 
+
+**Sturmgeschütz-Brigade 115:**
+*` I. Bat/Stug-Brigade 115` Relocate to BOXTEL.
+* `II. Bat/Stug-Brigade 115` Relocate to BOXTEL.
+* `III. Bat/Stug-Brigade 115` conduct coordinated general assult towards BEST.
+
+**Panzer-Grenadier-Regiment 104:**
+* `I. Bat/PzG-Reg 104` carry on.
+* `II. Bat/PzG-Reg 104` hold position, dig in.
+* `III. Bat/PzG-Reg 104` carry on.
+
+Panzer-Grenadier-Regiment 115:
+* `I. Bat/PzG-Reg 115` attack BEST through forest, south of the current position, and go around enemy positions.
+* `II. Bat/PzG-Reg 115` conduct coordinated general assult towards BEST.
+* `III. Bat/PzG-Reg 115` conduct coordinated general assult towards BEST.
+
+Kampfgruppe “Axt”:
+Kampfgruppe “Blut”:
+Kampfgruppe “Crux”:
